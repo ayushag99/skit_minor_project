@@ -1,0 +1,15 @@
+.area{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    padding-bottom: 10px;
+}
+.row{
+    margin-bottom: -3px;
+    border:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
